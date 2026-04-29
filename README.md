@@ -1,111 +1,209 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+# 👩‍💻 Mai Mohamed
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:2c5364&height=220&section=header&text=Mai%20Mohamed%20-%20Frontend%20Developer&fontSize=30&fontColor=ffffff" />
+</p>
 
-<p align="center">My name is Mai Mohamed👋</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Specialist;UI+%2F+UX+Builder;Turning+Ideas+Into+Real+Products" />
+</p>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-<p align="center">Software Developer | React Frontend Developer | Vite React.js</p>
+---
 
-###
+## 🧠 About Me
 
-<h2 align="left">👩‍💻About me</h2>
+I’m a **Frontend Developer** who loves building clean, scalable, and user-focused web applications.
 
-###
+* 💻 React & modern frontend architecture
+* ⚡ Strong focus on performance & UI quality
+* 🛠️ Love turning designs into real products
+* 🎯 Always improving code structure & scalability
+* 🌍 Based in Egypt
 
-<p align="left">✨ Building web experiences with React for 2+ years<br>📚 Currently learning backend development to become a full-stack developer<br>🎯 Goal: Transition into a full-stack role and build scalable, end-to-end applications<br>🎲 Fun fact: I enjoy turning complex ideas into clean, simple, and user-friendly interfaces</p>
+---
 
-###
+## 🛠️ Tech Stack
 
-<h2 align="left">🔗My Social Accounts</h2>
+### Frontend
 
-###
+![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react)
 
-<div align="left" style="display: flex; gap: 12px; flex-wrap: wrap;">
+### Backend
 
-  <a href="https://www.linkedin.com/in/mai-mohamed-developer" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge\&logo=express)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mai-Mohamed3&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mai-Mohamed3&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mai-Mohamed3&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mai-Mohamed3&theme=react-dark" />
+</p>
+
+---
+
+🏗️ Real Engineering Work
+<table> <tr> <td width="50%">
+🚗 Autoparts Management System
+
+🚀 Enterprise-style Full Stack Platform
+
+💡 Problem: Managing car parts, orders, and inventory in a scalable system
+🛠 Solution: Built a full-stack platform with admin control + structured DB design
+
+⚙️ Core Highlights:
+
+Full Admin Dashboard (Products / Orders / Requests)
+Scalable REST API architecture (Node.js)
+Relational database design (PostgreSQL)
+Real-time order handling logic
+
+</td> <td width="50%">
+  
+🍽️ MoodiMealz App
+
+🎯 AI-inspired UX Food Recommendation System
+
+💡 Problem: Users struggle to choose meals based on mood
+🛠 Solution: Built a mood-based recommendation system with dynamic UI
+
+⚙️ Core Highlights:
+
+Smart cart & global state management
+API-driven recommendation system
+Smooth motion design (Framer Motion)
+3D UI experience integration
+
+🔗 GitHub
+
+🔗 Live: https://mai-mohamed3.github.io/MoodiMealz/
+
+</td> </tr> <tr> <td width="50%">
+🎬 Movies Intelligence Platform
+
+📊 Content Discovery & Filtering System
+
+💡 Problem: Difficulty discovering and organizing content
+🛠 Solution: Built a structured media discovery platform
+
+⚙️ Core Highlights:
+
+Advanced filtering engine (Movies / TV / All)
+Favorites system using Context API
+Fully responsive cross-device UI
+Clean component-based architecture
+
+🔗 GitHub
+
+🔗 Live: https://mai-mohamed3.github.io/2Watch/
+
+</td> <td width="50%">
+🏢 Zoome Marketing Platform
+
+⚡ Multi-page Business Website
+
+💡 Problem: Need for modern digital agency presence
+🛠 Solution: Built a scalable multi-page marketing website
+
+⚙️ Core Highlights:
+
+Multi-page routing system (React Router)
+Modular UI components
+Performance optimized (Vite)
+Clean responsive design system
+
+🔗 GitHub
+
+🔗 Live: https://mai-mohamed3.github.io/Zoome-Website/
+
+</td> </tr> <tr> <td colspan="2">
+👩‍💻 Personal Portfolio
+
+📍 Foundation of my Developer Journey
+
+💡 Goal: Showcase early technical foundation & growth path
+🛠 Built with: Pure Vite, React.js, React Router , Framer
+Motion (Animations) ,CSS (Styling)
+
+⚙️ Core Highlights:
+
+Responsive layout system
+Clean UI structure
+Early frontend fundamentals mastery
+
+🔗 GitHub
+
+🔗 Live: https://mai-mohamed3.github.io/My-Portfolio/
+
+</td> </tr> </table>
+
+---
+
+## 📊 Skills Radar
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27HTML%27%2C%27CSS%27%2C%27JavaScript%27%2C%27React%27%2C%27TypeScript%27%2C%27Node%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skill%20Level%27%2Cdata%3A%5B90%2C90%2C85%2C88%2C70%2C65%5D%7D%5D%7D%7D" />
+</p>
+
+---
+
+## 🎯 Goals
+
+* 🚀 Become Advanced React Developer
+* ⚙️ Master Backend Development
+* 🧠 Learn System Design Basics
+* 🌍 Deploy scalable full-stack apps
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-
-  <a href="https://www.youtube.com/@YOUR-CHANNEL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
+</p>
 
-  <a href="mailto:mai.mo.alii3@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
-  </a>
+---
 
-  <a href="https://www.instagram.com/mai__mohamed2002" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
-  </a>
+## ⚡ Developer Mindset
 
-  <a href="https://t.me/@maimohamed5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" />
-  </a>
+> "Code is not just written, it is designed." ✨
 
-  <a href="https://www.facebook.com/1BBtixroBB" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" />
-  </a>
+---
 
-</div>
-
-###
-
-<h2 align="left">🛠️Top Technical Skills & Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Mai-Mohamed3/Mai-Mohamed3/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mai-Mohamed3.Mai-Mohamed3&left_text=My%20Profile%20Views"  />
-
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:2c5364&height=120&section=footer" />
+</p>
