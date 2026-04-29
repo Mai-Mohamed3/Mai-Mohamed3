@@ -11,19 +11,50 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
+---
+💼 Hire Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=80&section=header&text=Let's%20Build%20Something%20Amazing%20Together&fontSize=20&fontColor=e2e8f0" />
+</p>
+<p align="center"> <b>Frontend Developer | React Specialist | UI Builder</b><br/> I help turn ideas into clean, scalable, and modern web applications. </p>
+🚀 What I Can Do For You
+<p align="center">
 
+🧩 Build scalable React applications
+🎨 Convert UI/UX designs into pixel-perfect websites
+⚙️ Develop full frontend architectures
+📊 Optimize performance & responsiveness
+🔗 Integrate APIs & backend services
+
+</p>
+💡 Why Work With Me?
+<p align="center">
+
+✔ Clean & maintainable code
+✔ Fast delivery & deadline commitment
+✔ Strong UI/UX focus
+✔ Modern React ecosystem (Hooks, Context, TypeScript)
+✔ Real production experience
+
+</p>
+📬 Let’s Connect
+<p align="center"> 
+  <a href="https://raw.githubusercontent.com/Mai-Mohamed3/Mai-Mohamed3/main/Mai_Mohamed_CV.pdf" target="_blank"> 
+    <img src="https://img.shields.io/badge/📄%20Download%20CV-22c55e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a> 
+  <a href="https://mai-mohamed3.github.io/My-Portfolio/" target="_blank"> 
+    <img src="https://img.shields.io/badge/🧳%20View%20Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" /> 
+  </a> 
+  <a href="mailto:mai.mo.alii3@gmail.com"> 
+    <img src="https://img.shields.io/badge/📧%20Email%20Me-black?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a> 
+</p>
+⚡ Availability
+<p align="center"> 🟢 Open to Freelance Opportunities <br/> 🟢 Open to Full-time Roles <br/> 🟢 Open to Collaboration Projects </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:2563eb&height=120&section=footer" /> </p>
 ---
 
 ### 🚀 Featured & Popular Repositories
 <p align="center"> <b>Check my most impactful projects below</b> 👇 </p> <p align="center"> <a href="https://github.com/Mai-Mohamed3?tab=repositories" target="_blank"> <img src="https://img.shields.io/badge/🔎%20Explore%20Repositories-111111?style=for-the-badge&logo=github" /> </a> </p>
-
-### 📄 Resume & Portfolio
-<p align="center"> 
-  <a href="https://raw.githubusercontent.com/Mai-Mohamed3/Mai-Mohamed3/main/Mai_Mohamed_CV.pdf" target="_blank"> 
-    <img src="https://img.shields.io/badge/⬇️%20Download%20CV-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a> 
-  <a href="https://mai-mohamed3.github.io/My-Portfolio/" target="_blank"> 
-    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-2c5364?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
-</p>
 
 ---
 
