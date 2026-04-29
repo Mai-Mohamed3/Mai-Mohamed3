@@ -1,4 +1,3 @@
-# 👩‍💻 Mai Mohamed
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:2c5364&height=220&section=header&text=Mai%20Mohamed%20-%20Frontend%20Developer&fontSize=30&fontColor=ffffff" />
@@ -39,7 +38,7 @@
 </p>
 📬 Let’s Connect
 <p align="center"> 
-  <a href="https://raw.githubusercontent.com/Mai-Mohamed3/Mai-Mohamed3/main/Mai_Mohamed_CV.pdf" target="_blank"> 
+  <a href="https://raw.githubusercontent.com/Mai-Mohamed3/Mai-Mohamed3/Mai_Mohamed_CV.pdf" target="_blank"> 
     <img src="https://img.shields.io/badge/📄%20Download%20CV-22c55e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a> 
   <a href="https://mai-mohamed3.github.io/My-Portfolio/" target="_blank"> 
     <img src="https://img.shields.io/badge/🧳%20View%20Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" /> 
