@@ -38,7 +38,7 @@
 </p>
 📬 Let’s Connect
 <p align="center"> 
-  <a href="https://github.com/Mai-Mohamed3/Mai-Mohamed3/blob/main/Mai_Mohamed_CV.pdf?raw=true"> 
+  <a href="https://github.com/Mai-Mohamed3/Mai-Mohamed3/blob/main/resume.pdf?raw=true"> 
     <img src="https://img.shields.io/badge/📄%20Download%20CV-22c55e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a> 
   <a href="https://mai-mohamed3.github.io/My-Portfolio/" target="_blank"> 
     <img src="https://img.shields.io/badge/🧳%20View%20Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" /> 
