@@ -18,7 +18,7 @@
 
 I’m a **Frontend Developer** who loves building clean, scalable, and user-focused web applications.
 
-* 💻 React & modern frontend architecture
+* 💻 React Developer | 2+ Years Experience in Modern Frontend Architecture
 * ⚡ Strong focus on performance & UI quality
 * 🛠️ Love turning designs into real products
 * 🎯 Always improving code structure & scalability
@@ -29,22 +29,28 @@ I’m a **Frontend Developer** who loves building clean, scalable, and user-focu
 ## 🛠️ Tech Stack
 
 ### Frontend
-
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge\&logo=vite)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge\&logo=three.js)
+![Axios](https://img.shields.io/badge/Axios-111111?style=for-the-badge\&logo=axios)
 ![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react)
+![API](https://img.shields.io/badge/API-111111?style=for-the-badge\&logo=api)
 
-### Backend
+### Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge\&logo=express)
-
-### Database
-
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysqql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge\&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql)
+![RestAPI](https://img.shields.io/badge/RestAPI-111111?style=for-the-badge\&logo=restapi)
 
+
+ ### Tools & Version Control
+ ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)
+ ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
 ---
 
 ## 📊 GitHub Analytics
@@ -188,10 +194,10 @@ Early frontend fundamentals mastery
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/mai-mohamed-developer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Mai-Mohamed3">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
 </p>
