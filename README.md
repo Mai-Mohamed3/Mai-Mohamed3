@@ -14,6 +14,14 @@
 
 ---
 
+### 🚀 Featured & Popular Repositories
+<p align="center"> <b>Check my most impactful projects below</b> 👇 </p> <p align="center"> <a href="https://github.com/Mai-Mohamed3?tab=repositories" target="_blank"> <img src="https://img.shields.io/badge/🔎%20Explore%20Repositories-111111?style=for-the-badge&logo=github" /> </a> </p>
+
+### 📄 Resume & Portfolio
+<p align="center"> <a href="PUT-YOUR-CV-LINK-HERE" target="_blank"> <img src="https://img.shields.io/badge/⬇️%20Download%20CV-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a> <a href="https://mai-mohamed3.github.io/My-Portfolio/" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-2c5364?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+
+---
+
 ## 🧠 About Me
 
 I’m a **Frontend Developer** who loves building clean, scalable, and user-focused web applications.
